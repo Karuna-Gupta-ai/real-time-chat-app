@@ -27,4 +27,10 @@ A modern real-time chat application built using the **MERN stack**, **Socket.io*
 | Auth        | JWT (JSON Web Tokens)     |
 | State Mgmt  | Zustand                   |
 | Deployment  | Render                    |
+
+---
+
+## Simulation
+
+https://drive.google.com/file/d/1fsaiTj8BdtfDSrpd0b3ZiBYJ5PnY0hZt/view?usp=drive_link
     
